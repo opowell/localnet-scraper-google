@@ -1,0 +1,10 @@
+{
+  "scrapers": [
+    {
+      "name": "Google",
+      "urlPattern": "www.google.com/search",
+      "searchUrl": "https://www.google.com/search?q={term}"
+    }
+  ],
+  "file": "google.js"
+}
